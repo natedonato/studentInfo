@@ -7,4 +7,5 @@ This is a React based web app that allows you to view a list of students and the
 
 <img src="https://raw.githubusercontent.com/natedonato/studentInfo/master/public/sampleScreen.png" > 
 
-Student data is fetched from a static json file simulating an external API call.  This project was originally coded in one afternoon as part of a here unnamed company coding challenge, closely matching their style and functionality specifications.  At their request all references to said company and all use of their APIs have been removed for this public sample.
+Student data is fetched from a static json file simulating an external API call.  
+This project was originally coded in one afternoon as part of a here unnamed company coding challenge, closely matching their style and functionality specifications.  At their request all references to said company and all use of their APIs have been removed for this public sample.
